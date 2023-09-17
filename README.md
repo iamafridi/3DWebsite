@@ -1,4 +1,4 @@
-# 3dWebsite
+# 3D_Website
 I have learned about this through internet source, I found it cool and exciting so i ended up doing this.
 This is a 3D animated website, here whenever you will scroll the character available here will move accordingly.
 However there are total 300 images that runs one after another for the smooth transition.
